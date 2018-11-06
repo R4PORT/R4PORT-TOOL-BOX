@@ -95,7 +95,9 @@ print ("""
 
 iletişim: https://wwww.instagram.com/onurcan.root
 web site: https://www.teknoalerji.com
+github: https://github.com/R4PORT/R4PORT-TOOL-BOX
 Coded by: R4PORT (Onur Öncel)
+
 TR
 
 01 - PORT TARAMA
@@ -321,7 +323,7 @@ elif (secenek =="12"):
 
 	root@teknoalerji.com
 	instagram : https://www.instagram.com
-	github : 
+	github : https://github.com/R4PORT/R4PORT-TOOL-BOX
 
 	""")
 
